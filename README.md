@@ -19,3 +19,11 @@ GitHub 仓库：https://github.com/BrooksTalent/alumni-partnership
 GitHub Pages 从 main 分支根目录发布 index.html。保留 pdf/、style.css、brand.css、wealth-logo.png 和 share-square.jpg。
 
 更新日期：2026-11-26。
+
+## 直屏简报
+
+HTML：https://brookstalent.github.io/alumni-partnership/presentation.html
+
+PDF：https://brookstalent.github.io/alumni-partnership/pdf/presentation.pdf
+
+九页9:16直屏简报，保留合作收益、购票责任及院系／专业校友会授权范围。
